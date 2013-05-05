@@ -1,0 +1,21 @@
+{
+  "name": "coffeenode-engine",
+  "version": "0.1.0",
+  "description": "Application launch instruments",
+  "main": "main.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loveencounterflow/coffeenode-engine"
+  },
+  "keywords": [
+    "coffee-script",
+    "application",
+    "basework",
+    "engine"
+  ],
+  "author": "",
+  "license": "BSD"
+}
